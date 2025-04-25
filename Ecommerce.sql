@@ -1,5 +1,7 @@
+-- This SQL script creates a database schema for an e-commerce platform.
 create database Ecommerce;
 
+-- Use the created database
 use Ecommerce;
 
 -- creating table color and inserting data to it
@@ -99,9 +101,9 @@ CREATE TABLE product_variation (
 );
 
 INSERT INTO product_variation (id, product_id, color_id, size_option_id) VALUES 
-(1, 1, 1, 5),  -- Air Max 90, Red, size 43
-(2, 1, 2, 4),  -- Air Max 90, Blue, size 42
-(3, 2, 2, NULL); -- Galaxy S22, Blue, no size
+(1, 1, 1, 5), 
+(2, 1, 2, 4),  
+(3, 2, 2, NULL);
 
 -- creating table product_item and inserting data
 CREATE TABLE product_item (
