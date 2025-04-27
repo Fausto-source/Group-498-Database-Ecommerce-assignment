@@ -38,3 +38,6 @@ Stay connected and meet regularly 👥
 Use GitHub for version control, documentation, and teamwork 📘
 Track your progress, share updates, and troubleshoot together 🔧
 Make sure everyone is in the loop 🧭
+
+
+![Ecommerce data tables-Page-2 drawio](https://github.com/user-attachments/assets/d57cdd24-3d93-40ce-8b6d-19e9928c4090)
