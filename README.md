@@ -2,12 +2,6 @@
 building tables for an e-commerce platform
 
 
-CONTRIBUTORS
-
-Fautine kamau https://github.com/Fausto-source
-Shantel https://github.com/ShantelKP
-
-
 
 🎯 Objective
 This challenge will help you master the art of database design🧠💾
@@ -41,3 +35,13 @@ Make sure everyone is in the loop 🧭
 
 
 ![Ecommerce data tables-Page-2 drawio](https://github.com/user-attachments/assets/d57cdd24-3d93-40ce-8b6d-19e9928c4090)
+
+
+CONTRIBUTORS
+
+Fautine kamau https://github.com/Fausto-source
+
+Shantel https://github.com/ShantelKP
+
+
+
